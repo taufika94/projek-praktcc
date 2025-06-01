@@ -3,7 +3,7 @@ import { AuthProvider, useAuth } from './contexts/AuthContext';
 import Login from './components/Auth/Login';
 import Register from './components/Auth/Register';
 import Home from './components/Home';
-import Navbar from './components/Navbar';
+import Navbar from './components/Navbar.jsx';
 import WeaponList from './Weapon/WeaponList';
 import WeaponForm from './Weapon/WeaponForm';
 import TransactionList from './Transaction/TransactionList';
